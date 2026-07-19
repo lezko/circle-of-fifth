@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/circle-of-fifth/static/css/main.3fe2e0f4.css",
+    "main.js": "/circle-of-fifth/static/js/main.27f52ea1.js",
+    "static/js/453.909cfd48.chunk.js": "/circle-of-fifth/static/js/453.909cfd48.chunk.js",
+    "index.html": "/circle-of-fifth/index.html",
+    "main.3fe2e0f4.css.map": "/circle-of-fifth/static/css/main.3fe2e0f4.css.map",
+    "main.27f52ea1.js.map": "/circle-of-fifth/static/js/main.27f52ea1.js.map",
+    "453.909cfd48.chunk.js.map": "/circle-of-fifth/static/js/453.909cfd48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe2e0f4.css",
+    "static/js/main.27f52ea1.js"
+  ]
+}
