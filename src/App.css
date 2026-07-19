@@ -1,5 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #424242;
+}
+
 .App {
   text-align: center;
+  background-color: red;
+  width: 100vw;
+  height: 100vh;
 }
 
 .App-logo {

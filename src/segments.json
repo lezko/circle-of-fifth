@@ -1,0 +1,50 @@
+[
+  {
+    "main": ["C"],
+    "secondary": ["Am"]
+  },
+  {
+    "main": ["G", "A♭♭"],
+    "secondary": ["Em", "F♭m"]
+  },
+  {
+    "main": ["D", "E♭♭"],
+    "secondary": ["Bm", "C♭m"]
+  },
+  {
+    "main": ["A", "B♭♭"],
+    "secondary": ["F♯m", "G♭m"]
+  },
+  {
+    "main": ["E", "F♭"],
+    "secondary": ["C♯m", "D♭m"]
+  },
+  {
+    "main": ["B", "C♭"],
+    "secondary": ["G♯m", "A♭m"]
+  },
+  {
+    "main": ["F♯", "G♭"],
+    "secondary": ["D♯m", "E♭m"]
+  },
+  {
+    "main": ["C♯", "D♭"],
+    "secondary": ["A♯m", "B♭m"]
+  },
+  {
+    "main": ["G♯", "A♭"],
+    "secondary": ["E♯m", "Fm"]
+  },
+  {
+    "main": ["D♯", "E♭"],
+    "secondary": ["B♯m", "Cm"]
+  },
+  {
+    "main": ["A♯","B♭"],
+    "secondary": ["F♯♯m", "Gm"]
+  },
+  {
+    "main": ["E♯", "F"],
+    "secondary": ["C♯♯m","Dm"]
+  }
+]
